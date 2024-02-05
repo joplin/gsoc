@@ -63,7 +63,7 @@ Before you can be accepted as a contributor we expect you to write some code and
 
 - Please **do not submit a pull request just to fix some typo**.
 
-Before submitting a pull request, please make sure you read the [pull request guidelines for GSoC 2023](https://joplinapp.org/help/dev/gsoc/gsoc2023/pull_request_guidelines/).
+Before submitting a pull request, please make sure you read the [pull request guidelines for GSoC](https://github.com/joplin/gsoc/blob/main/pull_request_guidelines.md).
 
 ## General instructions
 
@@ -73,7 +73,7 @@ First of all, please read the above referenced resources and the [GSoC FAQ](http
 
 1. Join the [Joplin Forum](https://discourse.joplinapp.org), introduce yourself in a structured manner, share your GitHub username, and meet your fellow developers in the [GSoC category](https://discourse.joplinapp.org/c/gsoc). The subject of the topic shall contain your username, e.g. _Introducing \<username>_.
 2. Read Contributor proposal guidelines and the [GSoC Contributor/Student Guide](https://google.github.io/gsocguides/student/)
-3. Take a look at the [list of ideas](https://github.com/laurent22/joplin/blob/dev/readme/dev/gsoc/gsoc2023/ideas.md). You can have you own idea added by posting it in the [Features category](https://discourse.joplinapp.org/c/features)
+3. Take a look at the [list of ideas](https://github.com/joplin/gsoc/blob/main/ideas_2024.md). You can have you own idea added by posting it in the [Features category](https://discourse.joplinapp.org/c/features)
 4. Come up with project that you're interested in and discuss it in [Features category](https://discourse.joplinapp.org/c/features)
 5. Write a first draft and get someone to review it
 6. Remember: you must link to work such as commits in your proposal. A private place will be created within the forum for that purposes.
@@ -127,14 +127,14 @@ Below is the application template:
 
 ## Hints
 
-**Submit your proposal early**: early submissions get more attention from developers because that they have more time to read them. The more people see your proposal, the more it will be discussed.
+**Submit your proposal early**: early submissions get more attention from developers because they have more time to read them. The more people see your proposal, the more it will be discussed.
 
 **Do not leave it all to the last minute**: while it is Google that is operating the webserver, it would be wise to expect a last-minute overload on the server. So, be sure you send your application and proof of enrolment before the final rush. Also, applications submitted very late will get the least attention from mentors, so you may get a lower vote because of that. Submitting a draft early will give time for feedback from prospective mentors.
 
 **Keep it simple**: Be concise and precise. Provide a clear, descriptive title. "My Project" is the worst possible title!
 
 **Know what you are talking about**: Do not submit proposals that cannot be accomplished over a summer or that are not related to Joplin. If your idea is unusual, be sure to explain why you have chosen Joplin to be your mentoring organization.
-There could be exceptional reason to accept proposal what cannot be finished over the summer if either it is clearly recognisable that there will be commitment beyond the summer period or the project can be well separated in sub-project. If you want to go that way, your proposal must be very easy readable to allow us to evaluate the changes of a project going through several coding programs.
+There could be exceptional reasons to accept a proposal that cannot be finished over the summer if either it is clearly recognisable that there will be commitment beyond the summer period or the project can be well separated in sub-project. If you want to go that way, your proposal must be very easily readable to allow us to evaluate the changes of a project going through several coding programs.
 
 **Aim wide**: submit more than one proposal. You are allowed to submit to another organisation as well. If you do submit more than one proposal, tell us that and which proposal you would choose, if both were selected. Former students would advise you to do one or two kick-ass proposals rather than trying to do three.
 
@@ -150,7 +150,7 @@ All contributors will create a report page by tool up to their choice. Keep this
 
 If you're a Joplin developer or motivated user and you wish to participate in Summer of Code, make a proposal in the the [Features category of the Joplin Forum](https://discourse.joplinapp.org/c/features), based what your Joplin project needs.
 
-If you wish to mentor, please read the [GSoC Mentor Guide](https://google.github.io/gsocguides/mentor/org-application) and the [Summer of Code FAQ](https://developers.google.com/open-source/gsoc/faq#general). Also, please contact the [staff](https://discourse.joplinapp.org/g/staff) and get the go-ahead from them before editing the ideas page, adding your idea.
+If you wish to mentor, please read the [GSoC Mentor Guide](https://google.github.io/gsocguides/mentor/org-application) and the [Summer of Code FAQ](https://developers.google.com/open-source/gsoc/faq#general). Also, please contact the [staff](https://discourse.joplinapp.org/g/staff) and get the go-ahead from them before editing the ideas page, and adding your idea.
 
 Your idea proposal should be a brief description of what the project is, what the desired goals would be, what the contributor should know and an email address for contact. Contributors are not required to follow your idea to the letter, so regard your proposal as inspiration for them.
 
@@ -158,7 +158,7 @@ Your idea proposal should be a brief description of what the project is, what th
 
 Anyone developer can be a mentor if you meet the GSoC eligibility requirements. We will potentially assign a contributor to you who has never worked on such a large project and will need some help. Make sure you're up for the task. Mentoring takes time, and lots and lots of communication.
 
-Before subscribing yourself as a mentor, please make sure that  the [staff](https://discourse.joplinapp.org/g/staff) is aware of that. Ask them to send the Summer of Code Administrators an email confirming your involvement in the team. This is just a formality to make sure you are a real person we can trust; the administrators cannot know all active developers by their Google account ID. Then drop us a message in the forum.
+Before subscribing to yourself as a mentor, please make sure that  the [staff](https://discourse.joplinapp.org/g/staff) is aware of that. Ask them to send the Summer of Code Administrators an email confirming your involvement in the team. This is just a formality to make sure you are a real person we can trust; the administrators cannot know all active developers by their Google account ID. Then drop us a message in the forum.
 
 Prospective mentors should read the [mentoring guide](http://www.booki.cc/gsoc-mentoring). Also, Federico Mena-Quintero has written some helpful information based on his experiences in previous years. [His HOWTO](https://people.gnome.org/~federico/docs/summer-of-code-mentoring-howto/index.html) has some useful suggestions for anyone planning to mentor this year.
 
