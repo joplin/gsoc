@@ -169,5 +169,5 @@ Finally, know that we will never assign you to a project you do not want to work
 ## Ideas
 
 Please see below for a list of project ideas:
+https://github.com/joplin/gsoc/blob/main/ideas_2024.md
 
-https://joplinapp.org/help/dev/gsoc/gsoc2023/ideas/
