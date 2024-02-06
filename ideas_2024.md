@@ -27,7 +27,7 @@ Difficulty Level: High
 
 Skills Required: TypeScript, React Native
 
-Potential Mentor(s):
+Potential Mentor(s): [JackGruber](https://github.com/JackGruber/), [StefanM](https://github.com/PackElend)
 
 Expected size of project: 350 hours
 
@@ -49,7 +49,7 @@ Difficulty Level: Medium
 
 Skills Required: TypeScript, React. Some knowledge of Electron and electron-builder.
 
-Potential Mentor(s):
+Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/), [StefanM](https://github.com/PackElend)
 
 Expected size of project: 175 hours
 
@@ -71,7 +71,7 @@ Difficulty level: Medium
 
 Skills Required: Typescript, Javascript.
 
-Potential Mentor(s):
+Potential Mentor(s): [StefanM](https://github.com/PackElend), [Laurent](https://github.com/laurent22)
 
 Expected size of project: 350 hours
 
@@ -85,7 +85,7 @@ Difficulty Level: High
 
 Skills Required: TypeScript, JavaScript, Electron.
 
-Potential Mentor(s):
+Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/), [Laurent](https://github.com/laurent22)
 
 Expected size of project: 350 hours
 
@@ -99,7 +99,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Image processing
 
-Potential Mentor(s):
+Potential Mentor(s): [JackGruber](https://github.com/JackGruber/), [Laurent](https://github.com/laurent22)
 
 ### 6. Voice to text on mobile
 
@@ -111,7 +111,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, React Native
 
-Potential Mentor(s): 
+Potential Mentor(s): [CalebJohn](https://github.com/CalebJohn), [Daeraxa](https://github.com/Daeraxa/)
 
 ### 7. PDF annotations
 
@@ -123,7 +123,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript
 
-Potential Mentor(s): 
+Potential Mentor(s): [CalebJohn](https://github.com/CalebJohn), [K. C. Tessarek](https://github.com/tessus/)
 
 ### 8. Plugin inspector
 
@@ -135,7 +135,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Electron
 
-Potential Mentor(s): 
+Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/), [Roman](https://github.com/roman-r-m)
 
 ### 9. Template insertion tool
 
@@ -151,7 +151,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Windows/macOS programming
 
-Potential Mentor(s): 
+Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/), [CalebJohn](https://github.com/CalebJohn)
 
 ### 10. AI-supported summary of notes and notebooks
 
@@ -163,7 +163,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Windows/macOS programming, ML, AI
 
-Potential Mentor(s): 
+Potential Mentor(s): [Roman](https://github.com/roman-r-m), [K. C. Tessarek](https://github.com/tessus/)
 
 
 ### 11. AI supported categorizing, tagging 
@@ -176,7 +176,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Windows/macOS programming, ML, AI
 
-Potential Mentor(s): 
+Potential Mentor(s): [Roman](https://github.com/roman-r-m), [Laurent](https://github.com/laurent22)
 
 
 ## More info
