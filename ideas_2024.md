@@ -101,6 +101,8 @@ Skills Required: JavaScript, Image processing
 
 Potential Mentor(s): [JackGruber](https://github.com/JackGruber/), [Laurent](https://github.com/laurent22)
 
+Expected size of project: 350 hours
+
 ### 6. Voice to text on mobile
 
 Add support for voice to text on mobile.
@@ -112,6 +114,8 @@ Difficulty Level: High
 Skills Required: JavaScript, React Native
 
 Potential Mentor(s): [CalebJohn](https://github.com/CalebJohn), [Daeraxa](https://github.com/Daeraxa/)
+
+Expected size of project: 350 hours
 
 ### 7. PDF annotations
 
@@ -125,6 +129,9 @@ Skills Required: JavaScript
 
 Potential Mentor(s): [CalebJohn](https://github.com/CalebJohn), [K. C. Tessarek](https://github.com/tessus/)
 
+Expected size of project: 175 hours
+
+
 ### 8. Plugin inspector
 
 Electron provides an API that allows inspecting any sub-process it creates. We can use that to monitor the performance of each plugin - how much CPU they use, how much memory, etc. We would also like to display an alert in the app if a plugin is using too much resources over a long period of time.
@@ -137,11 +144,13 @@ Skills Required: JavaScript, Electron
 
 Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/), [Roman](https://github.com/roman-r-m)
 
+Expected size of project: 350 hours
+
 ### 9. Template insertion tool
 
-Joplinc can store general templates as notes that can be used in various context. For example, it could have email templates that could be inserted into a Thunderbird email. Or code snippets that could be inserted into a text editor. The workflow will be as follow
+Joplin can store general templates as notes that can be used in various contexts. For example, it could have email templates that could be inserted into a Thunderbird email. Or code snippets that could be inserted into a text editor. The workflow will be as follows
 
-- User presses a global shortcut, for example Ctrl+Alt+T, from any text editor (email client, code editor, etc.)
+- User presses a global shortcut, for example, Ctrl+Alt+T, from any text editor (email client, code editor, etc.)
 - A floating window is opened, from which the user can pick a note
 - Once a note is selected, its content is inserted into the text editor
 
@@ -150,6 +159,8 @@ Expected Outcome: This can developed as an external application or possibly as p
 Difficulty Level: High
 
 Skills Required: JavaScript, Windows/macOS programming
+
+Expected size of project: 175 hours
 
 Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/), [CalebJohn](https://github.com/CalebJohn)
 
@@ -165,8 +176,9 @@ Skills Required: JavaScript, Windows/macOS programming, ML, AI
 
 Potential Mentor(s): [Roman](https://github.com/roman-r-m), [K. C. Tessarek](https://github.com/tessus/)
 
+Expected size of project: 350 hours
 
-### 11. AI supported categorizing, tagging 
+### 11. AI-supported categorizing, tagging 
 
 When your quantity of notes grows you may want to review tags and rearrange notes and notebooks.  That action shall be leveraged by AI.
 
@@ -178,6 +190,7 @@ Skills Required: JavaScript, Windows/macOS programming, ML, AI
 
 Potential Mentor(s): [Roman](https://github.com/roman-r-m), [Laurent](https://github.com/laurent22)
 
+Expected size of project: 350 hours
 
 ## More info
 
