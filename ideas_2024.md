@@ -17,21 +17,7 @@ Becoming accepted as a Google Summer of Code contributor is quite competitive. A
 
 ## List of ideas
 
-### 1. Plugin system on mobile
-
-The plugin system is currently available on desktop and CLI. We believe it could work on mobile too although some work will have to be done to make the plugin API compatible, as well as add a mechanism to load plugins.
-
-Expected Outcome: Allow loading and running plugins on mobile
-
-Difficulty Level: High
-
-Skills Required: TypeScript, React Native
-
-Potential Mentor(s): [JackGruber](https://github.com/JackGruber/), [StefanM](https://github.com/PackElend)
-
-Expected size of project: 350 hours
-
-### 2. Seamless desktop application updates
+### 1. Seamless desktop application updates
 
 The desktop application currently supports automatic updates, however the process is not particularly smooth: the user is presented with a modal dialog, where they need to click "Download" and that opens the default browser to download the file. Then they need to run this file and go through the installer.
 
@@ -53,71 +39,7 @@ Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/), [StefanM](https://g
 
 Expected size of project: 175 hours
 
-### 3. Improve PDF export
-
-Joplin uses Chrome's built-in print to PDF function which is very limited. This can be improved by using a 3rd party library to convert notes to PDF. Applies to desktop and CLI versions.
-
-Potential benefits:
-
-* Export multiple notes as a single PDF
-
-* Embedding attachments (see https://github.com/laurent22/joplin/issues/5943)
-
-* Delay export until the note is fully rendered (https://discourse.joplinapp.org/t/ability-to-delay-pdf-export-to-allow-plugins-to-render/22159)
-
-Expected Outcome: PDF export no longer relies on Chrome print to pdf
-
-Difficulty level: Medium
-
-Skills Required: Typescript, Javascript.
-
-Potential Mentor(s): [StefanM](https://github.com/PackElend), [Laurent](https://github.com/laurent22)
-
-Expected size of project: 350 hours
-
-### 4. Desktop application integration testing
-
-The desktop app front end has a few unit tests to verify things like React hooks and certain utility functions. However we currently have no integration testing to verify for example that a change in one component didn't break something in another component. This project would be about setting up this integration testing for the desktop app. You would do the setup and probably also write a few tests to demonstrate that it's working as expected. More info at https://www.electronjs.org/docs/latest/tutorial/automated-testing
-
-Expected Outcome: The student will have a good understanding on how to setup automated testing of the desktop app, and will have implemented automated testing for at least a subset of the application (e.g. Markdown editor and WYSIWYG editor)
-
-Difficulty Level: High
-
-Skills Required: TypeScript, JavaScript, Electron.
-
-Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/), [Laurent](https://github.com/laurent22)
-
-Expected size of project: 350 hours
-
-### 5. OCR plugin
-
-It is possible to add support for OCR content in Joplin via the [Tesseract library](http://tesseract.projectnaptha.com/). A first step would be to assess the feasibility of this project by integrating the lib in the desktop app and trying to OCR an image. OCR support should be implemented as a service of the desktop app. It would extract the text from the images, and append the content as plain text to the notes.
-
-Expected Outcome: A plugin for the desktop app that extract text from images and attach it to the note.
-
-Difficulty Level: High
-
-Skills Required: JavaScript, Image processing
-
-Potential Mentor(s): [JackGruber](https://github.com/JackGruber/), [Laurent](https://github.com/laurent22)
-
-Expected size of project: 350 hours
-
-### 6. Voice to text on mobile
-
-Add support for voice to text on mobile.
-
-Expected Outcome: Open a note, select the "Voice to text" feature, and start recording. That should automatically convert the audio to text and add it to the note.
-
-Difficulty Level: High
-
-Skills Required: JavaScript, React Native
-
-Potential Mentor(s): [CalebJohn](https://github.com/CalebJohn), [Daeraxa](https://github.com/Daeraxa/)
-
-Expected size of project: 350 hours
-
-### 7. PDF annotations
+### 2. PDF annotations
 
 We would like to add annotation support to the beta PDF viewer on desktop. The annotation tools should be similar to what's in Apple Preview for instance - ability to draw over a PDF, to add text boxes, to draw lines and arrow, etc. These annotations must be saved to the file.
 
@@ -131,8 +53,7 @@ Potential Mentor(s): [CalebJohn](https://github.com/CalebJohn), [K. C. Tessarek]
 
 Expected size of project: 175 hours
 
-
-### 8. Plugin inspector
+### 3. Plugin inspector
 
 Electron provides an API that allows inspecting any sub-process it creates. We can use that to monitor the performance of each plugin - how much CPU they use, how much memory, etc. We would also like to display an alert in the app if a plugin is using too much resources over a long period of time.
 
@@ -146,7 +67,7 @@ Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/), [Roman](https
 
 Expected size of project: 350 hours
 
-### 9. Template insertion tool
+### 4. Template insertion tool
 
 Joplin can store general templates as notes that can be used in various contexts. For example, it could have email templates that could be inserted into a Thunderbird email. Or code snippets that could be inserted into a text editor. The workflow will be as follows
 
@@ -164,7 +85,7 @@ Expected size of project: 175 hours
 
 Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/), [CalebJohn](https://github.com/CalebJohn)
 
-### 10. AI-supported summary of notes and notebooks
+### 5. AI-supported summary of notes and notebooks
 
 When your quantity of notes grows you may want to summarize them or an _Abstract_. That action shall be leveraged by AI.
 
@@ -178,7 +99,7 @@ Potential Mentor(s): [Roman](https://github.com/roman-r-m), [K. C. Tessarek](htt
 
 Expected size of project: 350 hours
 
-### 11. AI-supported categorizing, tagging 
+### 6. AI-supported categorizing, tagging 
 
 When your quantity of notes grows you may want to review tags and rearrange notes and notebooks.  That action shall be leveraged by AI.
 
