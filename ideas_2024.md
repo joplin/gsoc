@@ -139,7 +139,7 @@ Expected size of project: 350 hours
 
 ### 9. Multiple editors open at once
 
-Currently, it's only possible to have one markdown or rich-text editor open at a time. We would like to update Joplin Desktop's editor-related code such that multiple editors can be displayed at once, possibly in separate windows.
+Currently, it's only possible to have one Markdown or Rich Text editor open at a time. We would like to update Joplin Desktop's editor-related code such that multiple editors can be displayed at once, possibly in separate windows.
 
 Expected Outcome: Ability to open multiple editors at once, in different panes or separate windows.
 
@@ -153,9 +153,9 @@ Expected size of project: 350 hours
 
 ### 10. Rich text editor on mobile
 
-At present, Joplin Mobile only has a markdown editor, while Joplin Desktop has both markdown and rich text editors. We would like to use the same rich text editor on mobile (though perhaps with improvements).
+At present, Joplin Mobile only has a Markdown editor, while Joplin Desktop has both Markdown and Rich Text editors. We would like to use the same rich text editor on mobile (though perhaps with improvements).
 
-Expected Outcome: Rich text editor on mobile.
+Expected Outcome: Rich Text editor on mobile.
 
 Difficulty Level: Medium
 
