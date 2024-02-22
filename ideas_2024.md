@@ -179,6 +179,29 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
+## 12. Allow editing a note in a new window
+
+Currently there can be only one note being edited at a time, except when using the external editor feature. Perhaps based on that external editing feature, we would like to add the ability to edit a note in a separate window. That window would only contain the editor itself without sidebar. A good use for this feature would be to support a way to quickly add a note without leaving your currently opened note.
+
+Expected Outcome: A way to view and edit a window in a new window. Potentially there could also be multiple windows, with a note in each of them.
+
+Skills Required: Electron, TypeScript
+
+Potential Mentor(s): 
+
+Expected size of project: 350 hours
+
+## 13. Create a standalone sync API
+
+Create a standalone sync api based on `@joplin/lib` which you can include into your code as a library and use it to sync with your target. That may involve modifying the existing library so that it can be used without a dependency to the app itself. A documentation on how to use the library would also be needed.
+
+On top of that it doesn't even have to be in JS, it can be Python or any other language you are comfortable with. Such a re-implementation would be required to pass the existing synchronizer test units.
+
+Skills Required: TypeScript, JavaScript
+
+Potential Mentor(s): 
+
+Expected size of project: 350 hours
 
 ## More info
 
