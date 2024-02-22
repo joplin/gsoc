@@ -2,7 +2,7 @@ Google Summer of Code 2024
 ==========================
 
 
-Joplin has a young but well-proven history. 
+[Joplin](https://joplinapp.org) has a young but well-proven history. 
 All contributors, Joplin users and developers are welcome to participate in the hopefully next Summer of Code program with Joplin.
 Here's how.
 
