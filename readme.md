@@ -1,6 +1,7 @@
 Google Summer of Code 2024
 ==========================
 
+<img width="64" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" align="left"/>
 
 [Joplin](https://joplinapp.org) has a young but well-proven history. 
 All contributors, Joplin users and developers are welcome to participate in the hopefully next Summer of Code program with Joplin.
