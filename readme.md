@@ -77,7 +77,7 @@ First of all, please read the above-referenced resources and the [GSoC FAQ](http
 4. Come up with project that you're interested in and discuss it in [Features category](https://discourse.joplinapp.org/c/features)
 5. Write a first draft and get someone to review it
 6. Remember: you must link to work such as commits in your proposal. A private place will be created within the forum for that purposes.
-7. Read [How to write a kickass proposal for GSoC](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
+7. Read [How to write a kickass proposal for GSoC](https://web.archive.org/web/20190731094855/http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
 8. Submit proposal using [Google's web interface](https://summerofcode.withgoogle.com/) ahead of the deadline
 9. Submit proof of enrolment well ahead of the deadline
 
