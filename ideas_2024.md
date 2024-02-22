@@ -113,6 +113,73 @@ Potential Mentor(s): [Roman](https://github.com/roman-r-m), [Laurent](https://gi
 
 Expected size of project: 350 hours
 
+### 7. OneNote importer
+
+We would like to have a OneNote importer, either as a core part of the app or as a plugin. This may involve creating a parser for the [.one file format](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-one/73d22548-a613-4350-8c23-07d15576be50). Joplin currently relies on 3rd-party OneNote to Markdown tools for OneNote imports. 
+
+Difficulty level: High
+
+Skills Required: Typescript, Javascript.
+
+Potential Mentor(s):
+
+Expected size of project: 350 hours
+
+### 8. Native encryption
+
+We currently use `sjcl` for end-to-end encryption on all platforms. In the past, this has caused performance issues. Ideally, we would use a native encryption library.
+
+Difficulty level: High
+
+Skills Required: Typescript, Javascript, React Native, Java/Kotlin and Swift/Objective-C
+
+Potential Mentor(s):
+
+Expected size of project: 350 hours
+
+### 9. Multiple editors open at once
+
+Currently, it's only possible to have one markdown or rich-text editor open at a time. We would like to update Joplin Desktop's editor-related code such that multiple editors can be displayed at once, possibly in separate windows.
+
+Expected Outcome: Ability to open multiple editors at once, in different panes or separate windows.
+
+Difficulty Level: High
+
+Skills Required: JavaScript, Electron
+
+Potential Mentor(s):
+
+Expected size of project: 350 hours
+
+### 10. Rich text editor on mobile
+
+At present, Joplin Mobile only has a markdown editor, while Joplin Desktop has both markdown and rich text editors. We would like to use the same rich text editor on mobile (though perhaps with improvements).
+
+Expected Outcome: Rich text editor on mobile.
+
+Difficulty Level: Medium
+
+Skills Required: JavaScript, React Native
+
+Potential Mentor(s):
+
+Expected size of project: 175 hours
+
+### 11. Review process for plugins
+
+We would like to improve the security of Joplin's plugin ecosystem by reviewing plugins' source code. This requires changes to the plugin build and publishing process. See [RFC: Consider changing how we accept third-party plugins](https://github.com/laurent22/joplin/issues/9582) for details.
+
+Expected Outcome: Plugins with reviewed source code, ability to build these plugins from source on a trusted server, and a process for reviewing updates and new plugins.
+
+Difficulty Level: High
+
+Skills Required: JavaScript
+
+Potential Mentor(s): 
+
+Expected size of project: 350 hours
+
+
 ## More info
 
 - Make sure you read the [Joplin Google Summer of Code Introduction](https://github.com/joplin/gsoc/blob/main/readme.md)
