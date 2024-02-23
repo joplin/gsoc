@@ -115,7 +115,9 @@ Expected size of project: 350 hours
 
 ### 7. OneNote importer
 
-We would like to have a OneNote importer, either as a core part of the app or as a plugin. This may involve creating a parser for the [.one file format](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-one/73d22548-a613-4350-8c23-07d15576be50). Joplin currently relies on 3rd-party OneNote to Markdown tools for OneNote imports. 
+We would like to have a OneNote importer, either as a core part of the app or as a plugin. This may involve creating a parser for the [.one file format](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-one/73d22548-a613-4350-8c23-07d15576be50) and adding support for the OneNote API. Joplin currently relies on 3rd-party OneNote to Markdown tools for OneNote imports. 
+
+Expected Outcome: The user connects to their OneNote account from Joplin, then their notes are imported.
 
 Difficulty level: High
 
