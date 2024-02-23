@@ -18,7 +18,7 @@ Mentors, administrators and contributors: read [Summer of Code](https://develope
 **Please read this page carefully as most likely it will have all the answers to the questions you might have, such as how to build the app, how to contribute and what are the rules for submitting a pull request.**
 
 All participants will need a Google account to join the program. So, save time and create one now. In addition, all participants need to join the  [Joplin Forum](https://discourse.joplinapp.org). 
-Moreover, watch/subscribe to the topic [GSoC live blog](https://discourse.joplinapp.org/t/gsoc-live-blog/) (will be available after the Google announcement),  as this page contains rather static content whereas the mentioned topic is updated much more frequently.**
+Moreover, watch/subscribe to the topic [GSoC live blog](https://discourse.joplinapp.org/t/gsoc-2024-live-blog/36127),  as this page contains rather static content whereas the mentioned topic is updated much more frequently.**
 
 ## How to contribute
 
