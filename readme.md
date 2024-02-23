@@ -60,6 +60,8 @@ Before you can be accepted as a contributor we expect you to write some code and
 
 - Fix a [high priority](https://github.com/laurent22/joplin/issues?utf8=%E2%9C%93&q=is:open+is:issue+label:bug+label:high) or [medium priority](https://github.com/laurent22/joplin/issues?utf8=%E2%9C%93&q=is:open+is:issue+label:bug+label:medium) bug. This is something we highly value and is a good way to get a deep understanding of certain parts of the codebase.
 
+- Work on a [Good First Issue](https://github.com/laurent22/joplin/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). Those are usually a good way to get started with the Joplin codebase.
+
 - Alternatively you may browse the [GitHub Issues](https://github.com/laurent22/joplin/issues) to find something that can be worked on. Note that this is a difficult way to get a pull request in, so make sure the issue you choose has a very clear technical spec. If we need to discuss how it should work or what it should do in the pull request, it means there was no consensus for this feature, and we are likely to close the pull request.
 
 - Please **do not submit a pull request just to fix some typo**.
