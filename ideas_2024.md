@@ -200,6 +200,24 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
+# 14. Joplin for wearable devices
+
+It would be interesting to see if Joplin notes could be displayed on a wearable device (eg. a smart watch). It could be a way to quickly take a note from your watch. As this project can potentially be very complex, we only expect a prototype to demonstrate that it can be done.
+
+Skills Required: TypeScript, JavaScript, Wearable device APIs
+
+Potential Mentor(s): 
+
+Expected size of project: 350 hours
+
+# 15. Integrate Joplin with voice assistants
+
+Using Google Assistant or Siris for example, create a note in Joplin or, for example, ask Siri to read the most recent note.
+
+Skills Required: TypeScript, JavaScript, knowledge of voice assistant APIs
+
+Expected size of project: 175 hours
+
 ## More info
 
 - Make sure you read the [Joplin Google Summer of Code Introduction](https://github.com/joplin/gsoc/blob/main/readme.md)
