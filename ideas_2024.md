@@ -44,7 +44,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript
 
-Potential Mentor(s): 
+Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
 
 Expected size of project: 175 hours
 
@@ -58,7 +58,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Electron
 
-Potential Mentor(s): 
+Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
 
 Expected size of project: 350 hours
 
@@ -90,7 +90,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Windows/macOS programming, ML, AI
 
-Potential Mentor(s):
+Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
 
 Expected size of project: 350 hours
 
