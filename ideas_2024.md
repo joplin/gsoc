@@ -44,7 +44,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript
 
-Potential Mentor(s): [CalebJohn](https://github.com/CalebJohn), [K. C. Tessarek](https://github.com/tessus/)
+Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
 
 Expected size of project: 175 hours
 
@@ -58,7 +58,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Electron
 
-Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/), [Roman](https://github.com/roman-r-m)
+Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
 
 Expected size of project: 350 hours
 
@@ -78,7 +78,7 @@ Skills Required: JavaScript, Windows/macOS programming
 
 Expected size of project: 175 hours
 
-Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/), [CalebJohn](https://github.com/CalebJohn)
+Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/)
 
 ### 5. AI-supported summary of notes and notebooks
 
@@ -90,7 +90,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Windows/macOS programming, ML, AI
 
-Potential Mentor(s): [Roman](https://github.com/roman-r-m), [K. C. Tessarek](https://github.com/tessus/)
+Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
 
 Expected size of project: 350 hours
 
@@ -104,7 +104,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Windows/macOS programming, ML, AI
 
-Potential Mentor(s): [Roman](https://github.com/roman-r-m), [Laurent](https://github.com/laurent22)
+Potential Mentor(s): [Laurent](https://github.com/laurent22)
 
 Expected size of project: 350 hours
 
@@ -196,7 +196,7 @@ On top of that it doesn't even have to be in JS, it can be Python or any other l
 
 Skills Required: TypeScript, JavaScript
 
-Potential Mentor(s): 
+Potential Mentor(s): [Roman](https://github.com/roman-r-m)
 
 Expected size of project: 350 hours
 
