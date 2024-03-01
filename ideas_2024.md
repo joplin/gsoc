@@ -176,7 +176,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-## 12. Allow editing a note in a new window
+### 12. Allow editing a note in a new window
 
 Currently there can be only one note being edited at a time, except when using the external editor feature. Perhaps based on that external editing feature, we would like to add the ability to edit a note in a separate window. That window would only contain the editor itself without sidebar. A good use for this feature would be to support a way to quickly add a note without leaving your currently opened note.
 
@@ -188,7 +188,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-## 13. Create a standalone sync API
+### 13. Create a standalone sync API
 
 Create a standalone sync api based on `@joplin/lib` which you can include into your code as a library and use it to sync with your target. That may involve modifying the existing library so that it can be used without a dependency to the app itself. A documentation on how to use the library would also be needed.
 
@@ -200,7 +200,7 @@ Potential Mentor(s): [Roman](https://github.com/roman-r-m)
 
 Expected size of project: 350 hours
 
-# 14. Joplin for wearable devices
+### 14. Joplin for wearable devices
 
 It would be interesting to see if Joplin notes could be displayed on a wearable device (eg. a smart watch). It could be a way to quickly take a note from your watch. As this project can potentially be very complex, we only expect a prototype to demonstrate that it can be done.
 
@@ -210,7 +210,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-# 15. Integrate Joplin with voice assistants
+### 15. Integrate Joplin with voice assistants
 
 Using Google Assistant or Siris for example, create a note in Joplin or, for example, ask Siri to read the most recent note.
 
