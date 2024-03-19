@@ -108,21 +108,7 @@ Potential Mentor(s): [Laurent](https://github.com/laurent22)
 
 Expected size of project: 350 hours
 
-### 7. OneNote importer
-
-We would like to have a OneNote importer, either as a core part of the app or as a plugin. This may involve creating a parser for the [.one file format](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-one/73d22548-a613-4350-8c23-07d15576be50) and adding support for the OneNote API. Joplin currently relies on 3rd-party OneNote to Markdown tools for OneNote imports. 
-
-Expected Outcome: The user connects to their OneNote account from Joplin, then their notes are imported.
-
-Difficulty level: High
-
-Skills Required: Typescript, Javascript.
-
-Potential Mentor(s):
-
-Expected size of project: 350 hours
-
-### 8. Native encryption
+### 7. Native encryption
 
 We currently use `sjcl` for end-to-end encryption on all platforms. In the past, this has caused performance issues. Ideally, we would use a native encryption library.
 
@@ -134,7 +120,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-### 9. Multiple editors open at once
+### 8. Multiple editors open at once
 
 Currently, it's only possible to have one Markdown or Rich Text editor open at a time. We would like to update Joplin Desktop's editor-related code such that multiple editors can be displayed at once, possibly in separate windows.
 
@@ -148,7 +134,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-### 10. Rich text editor on mobile
+### 9. Rich text editor on mobile
 
 At present, Joplin Mobile only has a Markdown editor, while Joplin Desktop has both Markdown and Rich Text editors. We would like to use the same rich text editor on mobile (though perhaps with improvements).
 
@@ -162,7 +148,7 @@ Potential Mentor(s):
 
 Expected size of project: 175 hours
 
-### 11. Review process for plugins
+### 10. Review process for plugins
 
 We would like to improve the security of Joplin's plugin ecosystem by reviewing plugins' source code. This requires changes to the plugin build and publishing process. See [RFC: Consider changing how we accept third-party plugins](https://github.com/laurent22/joplin/issues/9582) for details.
 
@@ -176,7 +162,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-### 12. Allow editing a note in a new window
+### 11. Allow editing a note in a new window
 
 Currently there can be only one note being edited at a time, except when using the external editor feature. Perhaps based on that external editing feature, we would like to add the ability to edit a note in a separate window. That window would only contain the editor itself without sidebar. A good use for this feature would be to support a way to quickly add a note without leaving your currently opened note.
 
@@ -188,7 +174,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-### 13. Create a standalone sync API
+### 12. Create a standalone sync API
 
 Create a standalone sync api based on `@joplin/lib` which you can include into your code as a library and use it to sync with your target. That may involve modifying the existing library so that it can be used without a dependency to the app itself. A documentation on how to use the library would also be needed.
 
@@ -200,7 +186,7 @@ Potential Mentor(s): [Roman](https://github.com/roman-r-m)
 
 Expected size of project: 350 hours
 
-### 14. Joplin for wearable devices
+### 13. Joplin for wearable devices
 
 It would be interesting to see if Joplin notes could be displayed on a wearable device (eg. a smart watch). It could be a way to quickly take a note from your watch. As this project can potentially be very complex, we only expect a prototype to demonstrate that it can be done.
 
@@ -210,7 +196,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-### 15. Integrate Joplin with voice assistants
+### 14. Integrate Joplin with voice assistants
 
 Using Google Assistant or Siris for example, create a note in Joplin or, for example, ask Siri to read the most recent note.
 
