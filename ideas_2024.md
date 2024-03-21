@@ -62,24 +62,6 @@ Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
 
 Expected size of project: 350 hours
 
-### 4. Template insertion tool
-
-Joplin can store general templates as notes that can be used in various contexts. For example, it could have email templates that could be inserted into a Thunderbird email. Or code snippets that could be inserted into a text editor. The workflow will be as follows
-
-- User presses a global shortcut, for example, Ctrl+Alt+T, from any text editor (email client, code editor, etc.)
-- A floating window is opened, from which the user can pick a note
-- Once a note is selected, its content is inserted into the text editor
-
-Expected Outcome: This can developed as an external application or possibly as part of the core application, but some changes will have to be made to allow this. It needs to work at least on Windows and macOS.
-
-Difficulty Level: High
-
-Skills Required: JavaScript, Windows/macOS programming
-
-Expected size of project: 175 hours
-
-Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/)
-
 ### 5. AI-supported summary of notes and notebooks
 
 When your quantity of notes grows you may want to summarize them or an _Abstract_. That action shall be leveraged by AI.
