@@ -17,8 +17,8 @@ Mentors, administrators and contributors: read [Summer of Code](https://develope
 
 **Please read this page carefully as most likely it will have all the answers to the questions you might have, such as how to build the app, how to contribute and what are the rules for submitting a pull request.**
 
-All participants will need a Google account to join the program. So, save time and create one now. In addition, all participants need to join the  [Joplin Forum](https://discourse.joplinapp.org). 
-Moreover, watch/subscribe to the topic [GSoC live blog](https://discourse.joplinapp.org/t/gsoc-2024-live-blog/36127),  as this page contains rather static content whereas the mentioned topic is updated much more frequently.**
+All participants will need a Google account to join the program. So, save time and create one now. In addition, all participants need to join the  [Joplin Forum](https://discourse.joplinapp.org).   
+**Moreover, watch/subscribe to the topic [GSoC live blog](https://discourse.joplinapp.org/t/gsoc-2024-live-blog/36127),  as this page contains rather static content whereas the mentioned topic is updated much more frequently.**
 
 ## How to contribute
 
@@ -77,11 +77,11 @@ First of all, please read the above-referenced resources and the [GSoC FAQ](http
 1. Join the [Joplin Forum](https://discourse.joplinapp.org), introduce yourself in a structured manner, share your GitHub username, and meet your fellow developers in the [GSoC category](https://discourse.joplinapp.org/c/gsoc). The subject of the topic shall contain your username, e.g. _Introducing \<username>_.
 2. Read Contributor proposal guidelines and the [GSoC Contributor/Student Guide](https://google.github.io/gsocguides/student/)
 3. Take a look at the [list of ideas](https://github.com/joplin/gsoc/blob/main/ideas_2024.md). You can have you own idea added by posting it in the [Features category](https://discourse.joplinapp.org/c/features)
-4. Come up with project that you're interested in and discuss it in [Features category](https://discourse.joplinapp.org/c/features)
+4. Come up with a project that you're interested in and discuss it in [Features category](https://discourse.joplinapp.org/c/features)
 5. Write a first draft and get someone to review it
-6. Remember: you must link to work such as commits in your proposal. A private place will be created within the forum for that purposes.
+6. Remember: you must link to work such as commits in your proposal. A private place will be created within the forum for that purpose.
 7. Read [How to write a kickass proposal for GSoC](https://web.archive.org/web/20190731094855/http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
-8. Submit proposal using [Google's web interface](https://summerofcode.withgoogle.com/) ahead of the deadline
+8. **Submit the proposal using [Google's web interface](https://summerofcode.withgoogle.com/) ahead of the deadline but before please PM @PackElend as described in [GSoC 2024 live blog - GSoC - Joplin Forum](https://discourse.joplinapp.org/t/gsoc-2024-live-blog/36127/5)**
 9. Submit proof of enrolment well ahead of the deadline
 
 Coming up with an interesting idea is probably the most difficult part. It should be something interesting for Joplin, for Open Source in general and for you. And it must be something that you can realistically achieve in the time available to you.
