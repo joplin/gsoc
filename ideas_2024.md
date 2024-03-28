@@ -34,21 +34,7 @@ Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/), [StefanM](https://g
 
 Expected size of project: 175 hours
 
-### 2. PDF annotations
-
-We would like to add annotation support to the beta PDF viewer on desktop. The annotation tools should be similar to what's in Apple Preview for instance - ability to draw over a PDF, to add text boxes, to draw lines and arrow, etc. These annotations must be saved to the file.
-
-Expected Outcome: Add annotations to a PDF file
-
-Difficulty Level: High
-
-Skills Required: JavaScript
-
-Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
-
-Expected size of project: 175 hours
-
-### 3. Plugin inspector
+### 2. Plugin inspector
 
 Electron provides an API that allows inspecting any sub-process it creates. We can use that to monitor the performance of each plugin - how much CPU they use, how much memory, etc. We would also like to display an alert in the app if a plugin is using too much resources over a long period of time.
 
@@ -62,7 +48,7 @@ Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
 
 Expected size of project: 350 hours
 
-### 4. Template insertion tool
+### 3. Template insertion tool
 
 Joplin can store general templates as notes that can be used in various contexts. For example, it could have email templates that could be inserted into a Thunderbird email. Or code snippets that could be inserted into a text editor. The workflow will be as follows
 
@@ -80,7 +66,7 @@ Expected size of project: 175 hours
 
 Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/)
 
-### 5. AI-supported summary of notes and notebooks
+### 4. AI-supported summary of notes and notebooks
 
 When your quantity of notes grows you may want to summarize them or an _Abstract_. That action shall be leveraged by AI.
 
@@ -94,7 +80,7 @@ Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
 
 Expected size of project: 350 hours
 
-### 6. AI-supported categorizing, tagging 
+### 5. AI-supported categorizing, tagging 
 
 When your quantity of notes grows you may want to review tags and rearrange notes and notebooks.  That action shall be leveraged by AI.
 
@@ -108,7 +94,7 @@ Potential Mentor(s): [Laurent](https://github.com/laurent22)
 
 Expected size of project: 350 hours
 
-### 7. Native encryption
+### 6. Native encryption
 
 We currently use `sjcl` for end-to-end encryption on all platforms. In the past, this has caused performance issues. Ideally, we would use a native encryption library.
 
@@ -120,7 +106,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-### 8. Multiple editors open at once
+### 7. Multiple editors open at once
 
 Currently, it's only possible to have one Markdown or Rich Text editor open at a time. We would like to update Joplin Desktop's editor-related code such that multiple editors can be displayed at once, possibly in separate windows.
 
@@ -134,7 +120,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-### 9. Rich text editor on mobile
+### 8. Rich text editor on mobile
 
 At present, Joplin Mobile only has a Markdown editor, while Joplin Desktop has both Markdown and Rich Text editors. We would like to use the same rich text editor on mobile (though perhaps with improvements).
 
@@ -148,7 +134,7 @@ Potential Mentor(s):
 
 Expected size of project: 175 hours
 
-### 10. Review process for plugins
+### 9. Review process for plugins
 
 We would like to improve the security of Joplin's plugin ecosystem by reviewing plugins' source code. This requires changes to the plugin build and publishing process. See [RFC: Consider changing how we accept third-party plugins](https://github.com/laurent22/joplin/issues/9582) for details.
 
@@ -162,7 +148,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-### 11. Allow editing a note in a new window
+### 10. Allow editing a note in a new window
 
 Currently there can be only one note being edited at a time, except when using the external editor feature. Perhaps based on that external editing feature, we would like to add the ability to edit a note in a separate window. That window would only contain the editor itself without sidebar. A good use for this feature would be to support a way to quickly add a note without leaving your currently opened note.
 
@@ -174,7 +160,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-### 12. Create a standalone sync API
+### 11. Create a standalone sync API
 
 Create a standalone sync api based on `@joplin/lib` which you can include into your code as a library and use it to sync with your target. That may involve modifying the existing library so that it can be used without a dependency to the app itself. A documentation on how to use the library would also be needed.
 
@@ -186,7 +172,7 @@ Potential Mentor(s): [Roman](https://github.com/roman-r-m)
 
 Expected size of project: 350 hours
 
-### 13. Joplin for wearable devices
+### 12. Joplin for wearable devices
 
 It would be interesting to see if Joplin notes could be displayed on a wearable device (eg. a smart watch). It could be a way to quickly take a note from your watch. As this project can potentially be very complex, we only expect a prototype to demonstrate that it can be done.
 
@@ -196,7 +182,7 @@ Potential Mentor(s):
 
 Expected size of project: 350 hours
 
-### 14. Integrate Joplin with voice assistants
+### 13. Integrate Joplin with voice assistants
 
 Using Google Assistant or Siris for example, create a note in Joplin or, for example, ask Siri to read the most recent note.
 
