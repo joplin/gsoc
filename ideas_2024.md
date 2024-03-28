@@ -34,20 +34,6 @@ Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/), [StefanM](https://g
 
 Expected size of project: 175 hours
 
-### 2. PDF annotations
-
-We would like to add annotation support to the beta PDF viewer on desktop. The annotation tools should be similar to what's in Apple Preview for instance - ability to draw over a PDF, to add text boxes, to draw lines and arrow, etc. These annotations must be saved to the file.
-
-Expected Outcome: Add annotations to a PDF file
-
-Difficulty Level: High
-
-Skills Required: JavaScript
-
-Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
-
-Expected size of project: 175 hours
-
 ### 3. Plugin inspector
 
 Electron provides an API that allows inspecting any sub-process it creates. We can use that to monitor the performance of each plugin - how much CPU they use, how much memory, etc. We would also like to display an alert in the app if a plugin is using too much resources over a long period of time.
