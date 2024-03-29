@@ -30,7 +30,7 @@ Difficulty Level: Medium
 
 Skills Required: TypeScript, React. Some knowledge of Electron and electron-builder.
 
-Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/), [StefanM](https://github.com/PackElend)
+Potential Mentors: **To be specified**
 
 Expected size of project: 175 hours
 
@@ -44,7 +44,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Electron
 
-Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
+Potential Mentors: **To be specified**
 
 Expected size of project: 350 hours
 
@@ -64,7 +64,7 @@ Skills Required: JavaScript, Windows/macOS programming
 
 Expected size of project: 175 hours
 
-Potential Mentor(s): [Daeraxa](https://github.com/Daeraxa/)
+Potential Mentors: **To be specified**
 
 ### 5. AI-supported summary of notes and notebooks
 
@@ -76,7 +76,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Windows/macOS programming, ML, AI
 
-Potential Mentor(s): [K. C. Tessarek](https://github.com/tessus/)
+Potential Mentors: **To be specified**
 
 Expected size of project: 350 hours
 
@@ -90,7 +90,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript, Windows/macOS programming, ML, AI
 
-Potential Mentor(s): [Laurent](https://github.com/laurent22)
+Potential Mentors: **To be specified**
 
 Expected size of project: 350 hours
 
@@ -144,7 +144,7 @@ Difficulty Level: High
 
 Skills Required: JavaScript
 
-Potential Mentor(s): 
+Potential Mentors: **To be specified**
 
 Expected size of project: 350 hours
 
@@ -156,7 +156,7 @@ Expected Outcome: A way to view and edit a window in a new window. Potentially t
 
 Skills Required: Electron, TypeScript
 
-Potential Mentor(s): 
+Potential Mentors: **To be specified**
 
 Expected size of project: 350 hours
 
@@ -168,7 +168,7 @@ On top of that it doesn't even have to be in JS, it can be Python or any other l
 
 Skills Required: TypeScript, JavaScript
 
-Potential Mentor(s): [Roman](https://github.com/roman-r-m)
+Potential Mentors: **To be specified**
 
 Expected size of project: 350 hours
 
@@ -178,7 +178,7 @@ It would be interesting to see if Joplin notes could be displayed on a wearable 
 
 Skills Required: TypeScript, JavaScript, Wearable device APIs
 
-Potential Mentor(s): 
+Potential Mentors: **To be specified**
 
 Expected size of project: 350 hours
 
