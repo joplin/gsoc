@@ -133,15 +133,11 @@ In general, notes in Joplin are immediately accessible. However the user may wan
 
 **Expected size of project**: 175 hours
 
-### 8. In-App Password Strength Indicator
+### 8. Password strength indicator
 
 Implement a password strength indicator to help users create stronger master passwords. The indicator can visually guide users on how secure their password is when setting or changing it.
 
-**Expected Outcome**:  
-
-- A UI element that displays password strength as the user types.
-- Feedback to the user on how to improve their password strength (e.g., adding numbers, special characters).
-- Integration with an algorithm like zxcvbn to evaluate password strength.
+**Expected Outcome**: A UI element that displays password strength as the user types. Feedback to the user on how to improve their password strength (e.g., adding numbers, special characters). Integration with an algorithm like zxcvbn to evaluate password strength.
 
 **Difficulty Level**: Low
 
