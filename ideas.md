@@ -37,7 +37,7 @@ This project is to provide an alternative AI-based search for your notes. Instea
 
 **Skills Required**: TypeScript, ML/AL
 
-**Potential Mentors**: *To be specified*
+**Potential Mentors**: Laurent, Marph
 
 **Expected size of project**: 350 hours
 
@@ -57,7 +57,7 @@ With the above example, a note that shows a global overview of the website could
 
 **Skills Required**: TypeScript, ML/AL
 
-**Potential Mentors**: *To be specified*
+**Potential Mentors**: Tessus, Malek
 
 **Expected size of project**: 350 hours
 
@@ -71,7 +71,7 @@ The goal of this project would be to automatically categorise the user's notes. 
 
 **Skills Required**: TypeScript, ML/AL, React
 
-**Potential Mentors**: *To be specified*
+**Potential Mentors**: PackElend, Tessus
 
 **Expected size of project**: 350 hours
 
@@ -87,7 +87,7 @@ The user asks a question, the AI answers, and the user can ask more questions to
 
 **Skills Required**: TypeScript, ML/AL, React
 
-**Potential Mentors**: *To be specified*
+**Potential Mentors**: Malek, Tessus
 
 **Expected size of project**: 350 hours
 
@@ -101,7 +101,7 @@ Joplin has a strong focus on [accessibility](https://discourse.joplinapp.org/t/p
 
 **Skills Required**: TypeScript, ML/AL, React
 
-**Potential Mentors**: *To be specified*
+**Potential Mentors**: Laurent, Malek
 
 **Expected size of project**: 175 hours
 
@@ -115,7 +115,7 @@ We would like to improve the security of Joplin's plugin ecosystem by reviewing 
 
 **Skills Required**: TypeScript
 
-**Potential Mentors**: *To be specified*
+**Potential Mentors**: Marph, Malek
 
 **Expected size of project**: 350 hours
 
@@ -129,7 +129,7 @@ In general, notes in Joplin are immediately accessible. However the user may wan
 
 **Skills Required**: TypeScript, Ability to use cryptographic tools and libraries, React for UI
 
-**Potential Mentors**: *To be specified*
+**Potential Mentors**: Tessus, Laurent
 
 **Expected size of project**: 175 hours
 
@@ -143,7 +143,7 @@ Implement a password strength indicator to help users create stronger master pas
 
 **Skills Required**: TypeScript, React (for UI)
 
-**Potential Mentors**: *To be specified*
+**Potential Mentors**: PackElend, Laurent
 
 **Expected size of project**: 90 hours
 
