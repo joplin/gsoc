@@ -83,7 +83,7 @@ The user asks a question, the AI answers, and the user can ask more questions to
 
 **Expected Outcome**: This can be developed as an external application or a plugin. The AI should ingest the note collection. Then a UI should be provided to allow the user to ask questions.
 
-**Difficulty Level**: High
+**Difficulty Level**: Medium
 
 **Skills Required**: TypeScript, ML/AL, React
 
@@ -139,7 +139,7 @@ Implement a password strength indicator to help users create stronger master pas
 
 **Expected Outcome**: A UI element that displays password strength as the user types. Feedback to the user on how to improve their password strength (e.g., adding numbers, special characters). Integration with an algorithm like zxcvbn to evaluate password strength.
 
-**Difficulty Level**: Low
+**Difficulty Level**: Easy
 
 **Skills Required**: TypeScript, React (for UI)
 
