@@ -1,9 +1,5 @@
 # GSoC 2025 Ideas
 
-This is another round for Joplin at Google Summer of Code. Detailed information on how to get involved and apply are given in the [general Summer of Code introduction](https://joplinapp.org/help/dev/gsoc/gsoc2023/)
-
-**These are all proposals! We are open to new ideas you might have!!** Do you have an awesome idea you want to work on with Joplin but that is not among the ideas below? That's cool. We love that! But please do us a favour: Get in touch with a mentor early on and make sure your project is realistic and within the scope of Joplin.
-
 This year we will focus on these ideas:
 
 - **AI/ML** - Joplin enables users to manage extensive note collections, including personal notes, images, and other documents. We aim to leverage AI and ML technologies to explore and utilise this data in innovative ways.
