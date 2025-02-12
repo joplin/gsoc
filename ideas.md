@@ -10,9 +10,7 @@ This year we will focus on these ideas:
 
 ## Information for Contributors
 
-These ideas were contributed by our developers and users. They are sometimes vague or incomplete. If you wish to submit a proposal based on these ideas, you are urged to contact the developers and find out more about the particular suggestion you're looking at.
-
-Becoming accepted as a Google Summer of Code contributor is quite competitive. Accepted contributors typically have thoroughly researched the technologies of their proposed project and have been in frequent contact with **potential mentors**. **Simply copying and pasting an idea here will not work.** On the other hand, creating a completely new idea without first consulting **potential mentors** rarely works.
+These ideas were contributed by our developers and users. They are purposely vague or incomplete - this is because you are expected to research it and develop it to make it your own project.
 
 ## List of ideas
 
