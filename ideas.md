@@ -1,4 +1,4 @@
-# GSoC 2025 Ideas
+# GSoC 2026 Ideas
 
 This year we will focus on these ideas:
 

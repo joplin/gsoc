@@ -1,4 +1,4 @@
-# Google Summer of Code 2025
+# Google Summer of Code 2026
 
 <img width="64" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" align="left"/>
 
@@ -81,7 +81,7 @@ First of all, please read the above-referenced resources and the [GSoC FAQ](http
 5. Write a first draft and get someone to review it
 6. Remember: you must link to work such as commits in your proposal. A private place will be created within the forum for that purpose.
 7. Read [How to write a kickass proposal for GSoC](https://web.archive.org/web/20190731094855/http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
-8. **Submit the proposal using [Google's web interface](https://summerofcode.withgoogle.com/) ahead of the deadline but before please PM @PackElend as described in [GSoC 2025 live blog - GSoC - Joplin Forum](https://discourse.joplinapp.org/t/gsoc-2025-live-blog)**
+8. **Submit the proposal using [Google's web interface](https://summerofcode.withgoogle.com/) ahead of the deadline but before please PM @PackElend as described in [GSoC 2026 live blog - GSoC - Joplin Forum](https://discourse.joplinapp.org/t/gsoc-2024-live-blog/36127)**
 9. Submit proof of enrolment well ahead of the deadline
 
 Coming up with an interesting idea is probably the most difficult part. It should be something interesting for Joplin, for Open Source in general and for you. And it must be something that you can realistically achieve in the time available to you.
