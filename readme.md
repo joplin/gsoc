@@ -28,15 +28,9 @@ We suggest you read carefully these important documents and bookmark the links a
 - [How to build the apps](https://github.com/laurent22/joplin/blob/dev/readme/dev/BUILD.md)
 - [How to contribute](https://github.com/laurent22/joplin/blob/dev/readme/dev/index.md)
 
-
 ## Programming Language
 
-- Any new application or plugin should be done using TypeScript.
-- For web publishing, please use WebPack.
-- For UI, we use React/Redux. Make sure you use React Hooks when creating new components.
-- For styling, we use SASS.
-
-In general, all applications share the same back-end written in TypeScript or JavaScript (Node.js), with Redux for state management. The back-end runs locally.
+In general, all applications share the same back-end written in TypeScript or JavaScript (Node.js).
 
 The desktop GUI, as listed on the [Joplin's website](https://joplinapp.org/help/install) is done using Electron and React.
 
@@ -46,27 +40,17 @@ Submissions and ideas for projects in any other language should specifically men
 
 ## Instructions for contributors
 
-Contributors wishing to participate in Summer of Code must realize, that this is an important professional opportunity. You will be required to produce applicable and readable code for Joplin in 3 months. Your mentors will dedicate a portion of their time to mentoring you. Therefore, we seek candidates who are committed to helping Joplin and its community long-term and are willing to both do quality work, and be proactive in communicating with your mentor(s).
+Summer of Code is a professional opportunity. Over three months, you’ll be expected to produce clean, maintainable code for Joplin. Mentors dedicate time to guide you, so we look for contributors who are committed, communicate proactively, and deliver quality work.
 
-You don't have to be a proven developer - in fact, this whole program is meant to facilitate joining Joplin and other Open Source communities. However, experience in coding and/or experience with the above-mentioned programming languages and applications is welcome.
+You don’t need to be an experienced developer, but prior coding experience—especially with the technologies used in the project—is helpful.
 
-You should start learning the components that you plan on working on before the start date. Support can be found in the forum and on our dedicated discourse channel. You should plan to communicate with your team several times per week, and formally report progress and plans weekly. You are free to choose the format, it can be a sophisticated online document or simple continuous blog on GitHub.
+Before the coding period starts, familiarise yourself with the part of the project you plan to work on. You should communicate with your mentor several times per week and provide a short weekly progress report.
 
-Contributors who neglect active communication will be failed!
+Lack of active communication may result in failing the programme.
 
 ## How to create your first pull request
 
-Before you can be accepted as a contributor we expect you to write some code and link that work on your proposal. As a first pull request, we suggest one of the following:
-
-- Fix a [high priority](https://github.com/laurent22/joplin/issues?utf8=%E2%9C%93&q=is:open+is:issue+label:bug+label:high) or [medium priority](https://github.com/laurent22/joplin/issues?utf8=%E2%9C%93&q=is:open+is:issue+label:bug+label:medium) bug. This is something we highly value and is a good way to get a deep understanding of certain parts of the codebase.
-
-- Work on a [Good First Issue](https://github.com/laurent22/joplin/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). Those are usually a good way to get started with the Joplin codebase.
-
-- Alternatively you may browse the [GitHub Issues](https://github.com/laurent22/joplin/issues) to find something that can be worked on. Note that this is a difficult way to get a pull request in, so make sure the issue you choose has a very clear technical spec. If we need to discuss how it should work or what it should do in the pull request, it means there was no consensus for this feature, and we are likely to close the pull request.
-
-- Please **do not submit a pull request just to fix some typo**.
-
-Before submitting a pull request, please make sure you read the [pull request guidelines for GSoC](https://github.com/joplin/gsoc/blob/main/pull_request_guidelines.md).
+Please see our [pull request guidelines](https://github.com/joplin/gsoc/blob/master/pull_request_guidelines.md)
 
 ## General instructions
 
