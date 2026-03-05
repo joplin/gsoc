@@ -14,13 +14,7 @@ The focus this year is on:
 
 - And you are welcome to suggest your own ideas!
 
-Mentors, administrators and contributors: read [Summer of Code](https://developers.google.com/open-source/gsoc) occasionally. Also read the [Summer of Code FAQ](https://developers.google.com/open-source/gsoc/faq).
-
-**Please read this page carefully as most likely it will have all the answers to the questions you might have, such as how to build the app, how to contribute and what are the rules for submitting a pull request.**
-
-All participants will need a Google account to join the program. So, save time and create one now. In addition, all participants need to join the [Joplin Forum](https://discourse.joplinapp.org).  
-
-## How to contribute
+## How to get started
 
 We suggest you read carefully these important documents and bookmark the links as you will need to refer to them throughout GSoC:
 
@@ -28,15 +22,11 @@ We suggest you read carefully these important documents and bookmark the links a
 - [How to build the apps](https://github.com/laurent22/joplin/blob/dev/readme/dev/BUILD.md)
 - [How to contribute](https://github.com/laurent22/joplin/blob/dev/readme/dev/index.md)
 
-## Programming Language
+### Introducing yourself
 
-In general, all applications share the same back-end written in TypeScript or JavaScript (Node.js).
+Join the [Joplin Forum](https://discourse.joplinapp.org) and introduce yourself on the [Welcome post](https://discourse.joplinapp.org/t/welcome-to-gsoc-2026-with-joplin/48974/15).
 
-The desktop GUI, as listed on the [Joplin's website](https://joplinapp.org/help/install) is done using Electron and React.
-
-The mobile app is done using React Native.
-
-Submissions and ideas for projects in any other language should specifically mention the choice.
+Introduce yourself in a structured manner, share your GitHub username, your interests and meet your fellow developers.
 
 ## Instructions for contributors
 
@@ -47,30 +37,6 @@ You don’t need to be an experienced developer, but prior coding experience—e
 Before the coding period starts, familiarise yourself with the part of the project you plan to work on. You should communicate with your mentor several times per week and provide a short weekly progress report.
 
 Lack of active communication may result in failing the programme.
-
-## How to create your first pull request
-
-Please see our [pull request guidelines](https://github.com/joplin/gsoc/blob/master/pull_request_guidelines.md)
-
-## General instructions
-
-First of all, please read the above-referenced resources and the [GSoC FAQ](https://developers.google.com/open-source/gsoc/faq). Pay special attention to the **Eligibility** section of the FAQ.
-
-## Recommended steps
-
-1. Join the [Joplin Forum](https://discourse.joplinapp.org), introduce yourself in a structured manner, share your GitHub username, and meet your fellow developers in the [GSoC category](https://discourse.joplinapp.org/c/gsoc). The subject of the topic shall contain your username, e.g. _Introducing \<username>_.
-2. Read Contributor proposal guidelines and the [GSoC Contributor/Student Guide](https://google.github.io/gsocguides/student/)
-3. Take a look at the [list of ideas](https://github.com/joplin/gsoc/blob/main/ideas.md). You can have you own idea added by posting it in the [Features category](https://discourse.joplinapp.org/c/features)
-4. Come up with a project that you're interested in and discuss it in [Features category](https://discourse.joplinapp.org/c/features)
-5. Write a first draft and get someone to review it
-6. Remember: you must link to work such as commits in your proposal. A private place will be created within the forum for that purpose.
-7. Read [How to write a kickass proposal for GSoC](https://web.archive.org/web/20190731094855/http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
-8. **Submit the proposal using [Google's web interface](https://summerofcode.withgoogle.com/) ahead of the deadline but before please PM @PackElend as described in [GSoC 2026 live blog - GSoC - Joplin Forum](https://discourse.joplinapp.org/t/gsoc-2024-live-blog/36127)**
-9. Submit proof of enrolment well ahead of the deadline
-
-Coming up with an interesting idea is probably the most difficult part. It should be something interesting for Joplin, for Open Source in general and for you. And it must be something that you can realistically achieve in the time available to you.
-
-A good start is finding out what the most pressing issues are in the projects in which you are interested. Join the forum and subscribe to GitHub repository for that project or go into its discourse channel: meet developers and your potential mentor, as well as start learning the code-base. We recommend strongly getting involved in advance of the beginning of GSoC, and we will look favourably on applications from contributors who have already started to act like Open Source developers.
 
 ## Contributor proposal guidelines
 
@@ -121,6 +87,7 @@ Below is the application template:
 **Keep it simple**: Be concise and precise. Provide a clear, descriptive title. "My Project" is the worst possible title!
 
 **Know what you are talking about**: Do not submit proposals that cannot be accomplished over a summer or that are not related to Joplin. If your idea is unusual, be sure to explain why you have chosen Joplin to be your mentoring organization.
+
 There could be exceptional reasons to accept a proposal that cannot be finished over the summer if either it is clearly recognisable that there will be commitment beyond the summer period or the project can be well separated in sub-projects. If you want to go that way, your proposal must be very easily readable to allow us to evaluate the changes of a project going through several coding programs.
 
 **Aim wide**: submit more than one proposal. You are allowed to submit to another organisation as well. If you do submit more than one proposal, tell us that and which proposal you would choose, if both were selected. Former students would advise you to do one or two kick-ass proposals rather than trying to do three.
@@ -130,29 +97,3 @@ There could be exceptional reasons to accept a proposal that cannot be finished 
 Your primary responsibility is finishing your project under the guidance of your mentors. To do that, you must submit code regularly and stay in frequent and effective communication with your mentors and team. To pass the evaluations, you must do both the communication **and** the coding plus documentation.
 
 All contributors will create a report page by tool up to their choice. Keep this up-to-date, as this is one of our primary evaluation tools.
-
-## Instructions for mentors
-
-### Ideas
-
-If you're a Joplin developer or motivated user and you wish to participate in Summer of Code, make a proposal in the [Features category of the Joplin Forum](https://discourse.joplinapp.org/c/features), based on what your Joplin project needs.
-
-If you wish to mentor, please read the [GSoC Mentor Guide](https://google.github.io/gsocguides/mentor/org-application) and the [Summer of Code FAQ](https://developers.google.com/open-source/gsoc/faq#general). Also, please create a topic in the [GSoC category of the Joplin Forum](https://discourse.joplinapp.org/tags/c/gsoc/12/none) and/or drop us a note on [Discord](https://discord.com/invite/VSj7AFHvpq) and get the go-ahead from them before editing the ideas page, and adding your idea.
-
-Your idea proposal should be a brief description of what the project is, what the desired goals would be, what the contributor should know and an email address for contact. Contributors are not required to follow your idea to the letter, so regard your proposal as inspiration for them.
-
-### Mentoring
-
-Anyone developer can be a mentor if you meet the GSoC eligibility requirements. We will potentially assign a contributor to you who has never worked on such a large project and will need some help. Make sure you're up for the task. Mentoring takes time, and lots and lots of communication.
-
-Before subscribing to yourself as a mentor, please create a topic in the [GSoC category of the Joplin Forum](https://discourse.joplinapp.org/tags/c/gsoc/12/none) and/or drop us a note on [Discord](https://discord.com/invite/VSj7AFHvpq). Ask us to send the Summer of Code Administrators an email confirming your involvement in the team. This is just a formality to make sure you are a real person we can trust; the administrators cannot know all active developers by their Google account ID. Then drop us a message in the forum.
-
-You will subscribe to the relevant tags in the forum to discuss ideas. You will need to read the proposals as they come in and vote on the proposals. Daily communication is required with your contributor during the Community Bonding period, and multiple times per week during the coding period.
-
-Finally, know that we will never assign you to a project you do not want to work on. We will not assign you more projects than you can/want to take on either. And you will have a backup mentor, just in case something unforeseen takes place.
-
-## Ideas
-
-Please see below for a list of project ideas:
-
-https://github.com/joplin/gsoc/blob/main/ideas.md
