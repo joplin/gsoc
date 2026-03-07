@@ -8,7 +8,9 @@ Due to our limited resources and in order to give everyone a chance to submit a 
 
 	2. Also check the backlog of possible [feature requests](https://github.com/laurent22/joplin/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). Some of those are complex and not a good fit for a first pull request, but others are more simple so you might want to consider these.
 
-	3. Finally you may implement a plugin in your own repository. Note that we will look at your code, so make sure your choose something not too trivial, so that you can really showcase your skills. Please announce your plugin on the forum, in the [#plugins category](https://discourse.joplinapp.org/c/development/plugins/18).
+ 	3. Have a look at [the most popular plugins](https://joplinapp.org/plugins/#tab-all) and see if you can fix any issue or implement one of the requested features.
+
+	4. Finally you may implement a plugin in your own repository. Note that we will look at your code, so make sure your choose something not too trivial, so that you can really showcase your skills. Please announce your plugin on the forum, in the [#plugins category](https://discourse.joplinapp.org/c/development/plugins/18).
 
 1. **Include a video demonstrating your change**. You may omit this if your change has no impact on the UI.
 
