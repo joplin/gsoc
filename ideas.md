@@ -18,7 +18,7 @@ These ideas were contributed by our developers and users. They are purposely vag
 
 When your quantity of notes grows you may reach a point where finding notes is difficult. You may know that a specific note is there somewhere but you can't remember any specific keyword that would allow you to find it.
 
-This project is to provide an alternative AI-based search for your notes. Instead of using the existing [seach syntax](https://joplinapp.org/help/apps/search/), the user would express in English what they are looking for. For example:
+This project is to provide an alternative AI-based search for your notes. Instead of using the existing [search syntax](https://joplinapp.org/help/apps/search/), the user would express in English what they are looking for. For example:
 
 - It's a note about a meeting with a company from Germany in 2020 or maybe 2019
 - I need the list of tasks I wrote for the website redesign
@@ -37,9 +37,9 @@ This project is to provide an alternative AI-based search for your notes. Instea
 
 ### 2. AI-Generated note graphs
 
-As the user uses Joplin, he may accumulate a large number of notes and may find it difficult to know how they related to each others. We could imagine a folder containing many notes for a website project but the user might want to know what is the core idea for this project, what are the less important parts, and how all these ideas are connected to each others.
+Over time a Joplin user may accumulate a large number of notes and may find it difficult to know how they are related to each other. We could imagine a folder containing many notes for a website project but the user might want to know what is the core idea for this project, what are the less important parts, and how all these ideas are connected to each others.
 
-The goal of this project is to help the user organise his notes and visualise the dependencies between them using a graph.
+The goal of this project is to help the user organise their notes and visualise the dependencies between them using a graph.
 
 The AI would analyse all the notes in a notebook or in sub-notebooks, categorise them, and discover how they are connected to each others.
 
