@@ -157,17 +157,17 @@ Implement device-to-device synchronisation (LAN Sync). The applications can alre
 
 ### 10. Automatic conflict resolution
 
-Implement a means of automatically resolving note conflicts, where it possible to do so. Note conflicts occur when a note is edited while it is not synchronised with the latest version stored on the server. At present, resolving these conflicts requires manual intervention, which can be time-consuming and particularly challenging for longer notes, especially on mobile devices. The project may optionally explore the use of AI to assist with the conflict resolution process, though this is not a required component.
+Implement a mechanism to automatically resolve note conflicts where possible, and provide semi-autonomous or assisted conflict resolution when automatic resolution is not feasible. Note conflicts occur when a note is edited while the local version is not synchronized with the latest version stored on the server. At present, resolving these conflicts requires manual intervention, which can be time-consuming and particularly challenging for longer notes, especially on mobile devices. The project may optionally explore the use of AI to assist with the conflict resolution process, though this is not a required component.
 
-**Expected Outcome**: The project will deliver an automatic note conflict resolution system that works consistently across both desktop and mobile versions of the app. The algorithm will reliably merge changes without losing information where possible; when full reliability cannot be guaranteed, the app will prompt the user with an option to apply automatic conflict resolution along with a clear summary of what changes will occur and what information might be modified or lost.
+**Expected Outcome**: The project will deliver an automatic note conflict resolution system that works consistently across both desktop and mobile versions of the app. The algorithm should automatically merge changes whenever possible while preserving all information. When this cannot be guaranteed, the application should provide semi-autonomous or assisted conflict resolution with a clear summary of the proposed changes and any potential information loss. Assisted conflict resolution must not interrupt synchronization and should be managed through a separate user interface.
 
-**Difficulty Level**: Medium
+**Difficulty Level**: High
 
 **Skills Required**: TypeScript, Understanding of diff algorithms and version control
 
 **Potential Mentors**: Laurent, mrjo118
 
-**Expected size of project**: 175 hours
+**Expected size of project**: 350 hours
 
 ## More info
 
