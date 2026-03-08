@@ -113,11 +113,11 @@ We would like to improve the security of Joplin's plugin ecosystem by reviewing 
 
 **Expected size of project**: 350 hours
 
-### 7. Support for encrypted notes
+### 7. Support for encrypted notes and notebooks
 
 In general, notes in Joplin are immediately accessible. However the user may want to lock certain sensitive notes behind a password.
 
-**Expected Outcome**: The user can choose to encrypt certain notes and associated resources. When doing so, they would have to enter a password. The note then can only be decrypted using that password.
+**Expected Outcome**: The user can choose to encrypt certain notes and associated resources. When doing so, they would have to enter a password. The note then can only be decrypted using that password. If the scope of the project allows without significantly increasing complexity, this feature could also be extended to support encrypting entire notebooks in addition to individual notes.
 
 **Difficulty Level**: Medium
 
@@ -152,6 +152,20 @@ Implement device-to-device synchronisation (LAN Sync). The applications can alre
 **Skills Required**: TypeScript, Networking
 
 **Potential Mentors**: PackElend, Laurent
+
+**Expected size of project**: 175 hours
+
+### 10. Automatic conflict resolution
+
+Implement a means of automatically resolving note conflicts, where it possible to do so. Note conflicts occur when a note is edited while it is not synchronised with the latest version stored on the server. At present, resolving these conflicts requires manual intervention, which can be time-consuming and particularly challenging for longer notes, especially on mobile devices. The project may optionally explore the use of AI to assist with the conflict resolution process, though this is not a required component.
+
+**Expected Outcome**: The project will deliver an automatic note conflict resolution system that works consistently across both desktop and mobile versions of the app. The algorithm will reliably merge changes without losing information where possible; when full reliability cannot be guaranteed, the app will prompt the user with an option to apply automatic conflict resolution along with a clear summary of what changes will occur and what information might be modified or lost.
+
+**Difficulty Level**: Medium
+
+**Skills Required**: TypeScript, Understanding of diff algorithms and version control
+
+**Potential Mentors**: Laurent, mrjo118
 
 **Expected size of project**: 175 hours
 
