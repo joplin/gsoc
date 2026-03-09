@@ -71,7 +71,7 @@ The goal of this project would be to automatically categorise the user's notes. 
 
 ### 4. Chat with your note collection using AI
 
-Some users have very large knowledge base in Joplin, sometimes built from clipping thousands of pages. This is curated, carefully selected, and thus it would be good to have a way to "interogate" this content. The UI would be very similar to something like ChatGPT, except that the data would be based on the user's note collection.
+Some users have a very large knowledge base in Joplin, sometimes built from clipping thousands of pages. This is curated, carefully selected, and thus it would be good to have a way to "interrogate" this content. The UI would be very similar to something like ChatGPT, except that the data would be based on the user's note collection.
 
 The user asks a question, the AI answers, and the user can ask more questions to refine the answer.
 
@@ -89,7 +89,7 @@ The user asks a question, the AI answers, and the user can ask more questions to
 
 Joplin has a strong focus on [accessibility](https://discourse.joplinapp.org/t/project-2-making-joplin-more-accessible-with-wcag-2-compliance/42371). To enhance accessibility, we aim to use AI to automatically scan all images found within the notes and assign a descriptive label to each one. For instance, an image of the Mona Lisa could be labelled as "A portrait of a woman with an enigmatic smile, featuring a soft landscape background and masterful use of sfumato shading".
 
-**Expected Outcome**: This can be developed as an external application or a plugin. The program should scan the note collection then, for each image, it should generate a detailed description of it using AI.
+**Expected Outcome**: This can be developed as an external application or a plugin. The program should scan the note collection and then, for each image, generate a detailed description of it using AI.
 
 **Difficulty Level**: Medium
 
@@ -131,7 +131,7 @@ In general, notes in Joplin are immediately accessible. However the user may wan
 
 Implement a password strength indicator to help users create stronger master passwords. The indicator can visually guide users on how secure their password is when setting or changing it.
 
-**Expected Outcome**: A UI element that displays password strength as the user types. Feedback to the user on how to improve their password strength (e.g., adding numbers, special characters). Integration with an algorithm like zxcvbn to evaluate password strength.
+**Expected Outcome**: A UI element that displays password strength as the user types. Feedback to the user on how to improve their password strength (e.g. adding numbers, special characters). Integration with an algorithm like zxcvbn to evaluate password strength.
 
 **Difficulty Level**: Easy
 
@@ -143,7 +143,7 @@ Implement a password strength indicator to help users create stronger master pas
 
 ### 9. LAN Sync
 
-Implement device-to-device synchronisation (LAN Sync). The applications can already sync using various server, but it would be good to also allow sync fully offline by having the devices connect to each others directly.
+Implement device-to-device synchronisation (LAN Sync). The application can already sync using various servers, but it would be good to also allow sync fully offline by having the devices connect to each other directly.
 
 **Expected Outcome**: A new synchronisation method (we call it "sync target") that allows LAN Sync. It should work at a minimum on the Windows and Android apps. Ideally it should be implemented in a cross-platform way so that it works on all our supported operating systems.
 
