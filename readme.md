@@ -40,6 +40,10 @@ Lack of active communication may result in failing the programme.
 
 ## Contributor proposal guidelines
 
+Please read the forum with more up to date information on how to submit your proposal draft:
+
+https://discourse.joplinapp.org/t/gsoc-2026-how-to-submit-your-proposal-draft/49137
+
 A project proposal is what you will be judged upon. Write a clear proposal on what you plan to do, the scope of your project, and why we should choose you to do it. Proposals are the basis of the GSoC projects and therefore one of the most important things to do well. The proposal is not only the basis of our decision of which contributor to choose, but it has also an effect on Google's decision as to how many contributor slots are assigned to Joplin.
 
 Below is the application template:
