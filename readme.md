@@ -18,7 +18,7 @@ The focus this year is on:
 
 We suggest you read carefully these important documents and bookmark the links as you will need to refer to them throughout GSoC:
 
-- [How to submit a pull request for GSoC](https://github.com/joplin/gsoc/blob/main/pull_request_guidelines.md)
+- [How to submit a pull request for GSoC](https://github.com/joplin/gsoc/blob/master/pull_request_guidelines.md)
 - [How to build the apps](https://github.com/laurent22/joplin/blob/dev/readme/dev/BUILD.md)
 - [How to contribute](https://github.com/laurent22/joplin/blob/dev/readme/dev/index.md)
 
