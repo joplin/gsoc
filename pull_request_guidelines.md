@@ -20,13 +20,13 @@ Due to our limited resources and in order to give everyone a chance to submit a 
 
 4. **All pull request must have test units**. In some cases it might be almost impossible to add such tests (for example integration tests), but for anything else we insist on having them. Please check the [Automated Tests](https://github.com/laurent22/joplin/blob/dev/readme/dev/index.md#automated-tests) documentation for more information.
 
-5. AI-assisted contributions must follow the [AI policy](https://github.com/personalizedrefrigerator/gsoc/blob/main/ai_policy.md).
+5. AI-assisted contributions must follow the [AI policy](https://github.com/joplin/gsoc/blob/master/ai_policy.md). This includes the "AI assistance disclaimer" which **must** be present on all pull requests, whether AI-assisted or not. If AI-assistance was not used then please state this in the disclaimer.
 
-6. **No Work In Progress**. ONLY completed and working pull requests, and with test units, will be accepted.
+7. **No Work In Progress**. ONLY completed and working pull requests, and with test units, will be accepted.
 
-7. Please **do not `@mention` contributors and mentors and do not ask for pull request reviews**. Sometimes it takes time before we can review your pull request or answer your questions but we'll get to it sooner or later. `@mentioning` someone just adds to the pile of notifications we get and it won't make us look at your issue faster.
+8. Please **do not `@mention` contributors and mentors and do not ask for pull request reviews**. Sometimes it takes time before we can review your pull request or answer your questions but we'll get to it sooner or later. `@mentioning` someone just adds to the pile of notifications we get and it won't make us look at your issue faster.
 
-8. **Do not force push**. If you make changes to your pull request, please simply add a new commit as that makes it easy for us to review your new changes. If you force push, we'll have to review everything from the beginning.
+9. **Do not force push**. If you make changes to your pull request, please simply add a new commit as that makes it easy for us to review your new changes. If you force push, we'll have to review everything from the beginning.
 
 ## PR Description Guidelines
 
