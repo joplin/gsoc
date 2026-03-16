@@ -4,7 +4,7 @@ We accept the use of AI tools (e.g. LLMs) to assist with contributions. However,
 
 ### Disclosure requirement
 
-All contributions must include a section at the top titled:
+All contributions, whether AI-assisted or not, **must** include a section at the top titled:
 
 "**AI Assistance Disclosure**"
 
@@ -15,6 +15,8 @@ This section must clearly:
 * Confirm that you have:
   * Reviewed the output carefully
   * Fully understand the generated code or text
+ 
+If AI-assistance was *not* used in your contribution, then please state this in the disclosure instead.
 
 ### Proposals
 
