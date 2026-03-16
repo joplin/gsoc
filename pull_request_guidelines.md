@@ -20,7 +20,7 @@ Due to our limited resources and in order to give everyone a chance to submit a 
 
 4. **All pull request must have test units**. In some cases it might be almost impossible to add such tests (for example integration tests), but for anything else we insist on having them. Please check the [Automated Tests](https://github.com/laurent22/joplin/blob/dev/readme/dev/index.md#automated-tests) documentation for more information.
 
-5. AI-assisted contributions must follow the [AI policy](https://github.com/joplin/gsoc/blob/master/ai_policy.md). This includes the "AI assistance disclaimer" which **must** be present on all pull requests, whether AI-assisted or not. If AI-assistance was not used then please state this in the disclaimer.
+5. AI-assisted contributions must follow the [AI policy](https://github.com/joplin/gsoc/blob/master/ai_policy.md). This includes the "AI assistance disclosure" which **must** be present on all pull requests, whether AI-assisted or not. If AI-assistance was not used then please state this in the disclosure.
 
 6. **No Work In Progress**. ONLY completed and working pull requests, and with test units, will be accepted.
 
