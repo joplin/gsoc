@@ -31,9 +31,9 @@ This project is to provide an alternative AI-based search for your notes. Instea
 
 **Skills Required**: TypeScript, ML/AL
 
-**Primary mentor**: [@malekhavasi](https://github.com/@malekhavasi)
+**Primary mentor**: [@malekhavasi](https://github.com/malekhavasi)
 
-**Secondary mentors**: [@HahaBill](https://github.com/@HahaBill), [@shikuz](https://github.com/@shikuz), [@personalizedrefrigerator](https://github.com/@personalizedrefrigerator)
+**Secondary mentors**: [@HahaBill](https://github.com/HahaBill), [@shikuz](https://github.com/shikuz), [@personalizedrefrigerator](https://github.com/personalizedrefrigerator)
 
 **Expected size of project**: 350 hours
 
@@ -53,9 +53,9 @@ With the above example, a note that shows a global overview of the website could
 
 **Skills Required**: TypeScript, ML/AL
 
-**Primary mentor**: [@HahaBill](https://github.com/@HahaBill)
+**Primary mentor**: [@HahaBill](https://github.com/HahaBill)
 
-**Secondary mentors**: [@malekhavasi](https://github.com/@malekhavasi), [@shikuz](https://github.com/@shikuz)
+**Secondary mentors**: [@malekhavasi](https://github.com/malekhavasi), [@shikuz](https://github.com/shikuz)
 
 **Expected size of project**: 350 hours
 
@@ -69,9 +69,9 @@ The goal of this project would be to automatically categorise the user's notes. 
 
 **Skills Required**: TypeScript, ML/AL, React
 
-**Primary mentor**: [@HahaBill](https://github.com/@HahaBill)
+**Primary mentor**: [@HahaBill](https://github.com/HahaBill)
 
-**Secondary mentors**: [@shikuz](https://github.com/@shikuz)
+**Secondary mentors**: [@shikuz](https://github.com/shikuz)
 
 **Expected size of project**: 350 hours
 
@@ -87,9 +87,9 @@ The user asks a question, the AI answers, and the user can ask more questions to
 
 **Skills Required**: TypeScript, ML/AL, React
 
-**Primary mentor**: [@shikuz](https://github.com/@shikuz)
+**Primary mentor**: [@shikuz](https://github.com/shikuz)
 
-**Secondary mentors**: [@HahaBill](https://github.com/@HahaBill), [@malekhavasi](https://github.com/@malekhavasi)
+**Secondary mentors**: [@HahaBill](https://github.com/HahaBill), [@malekhavasi](https://github.com/malekhavasi)
 
 **Expected size of project**: 350 hours
 
@@ -103,9 +103,9 @@ Joplin has a strong focus on [accessibility](https://discourse.joplinapp.org/t/p
 
 **Skills Required**: TypeScript, ML/AL, React
 
-**Primary mentor**: [@personalizedrefrigerator](https://github.com/@personalizedrefrigerator)
+**Primary mentor**: [@personalizedrefrigerator](https://github.com/personalizedrefrigerator)
 
-**Secondary mentors**: [@CalebJohn](https://github.com/@CalebJohn), [@shikuz](https://github.com/@shikuz)
+**Secondary mentors**: [@CalebJohn](https://github.com/CalebJohn), [@shikuz](https://github.com/shikuz)
 
 **Expected size of project**: 175 hours
 
@@ -119,9 +119,9 @@ We would like to improve the security of Joplin's plugin ecosystem by reviewing 
 
 **Skills Required**: TypeScript
 
-**Primary mentor**: [@CalebJohn](https://github.com/@CalebJohn)
+**Primary mentor**: [@CalebJohn](https://github.com/CalebJohn)
 
-**Secondary mentors**: [@personalizedrefrigerator](https://github.com/@personalizedrefrigerator)
+**Secondary mentors**: [@personalizedrefrigerator](https://github.com/personalizedrefrigerator)
 
 **Expected size of project**: 350 hours
 
@@ -135,9 +135,9 @@ In general, notes in Joplin are immediately accessible. However the user may wan
 
 **Skills Required**: TypeScript, Ability to use cryptographic tools and libraries, React for UI
 
-**Primary mentor**: [@mrjo](https://github.com/@mrjo)118
+**Primary mentor**: [@mrjo](https://github.com/mrjo)118
 
-**Secondary mentors**: [@personalizedrefrigerator](https://github.com/@personalizedrefrigerator), [@Daeraxa](https://github.com/@Daeraxa)
+**Secondary mentors**: [@personalizedrefrigerator](https://github.com/personalizedrefrigerator), [@Daeraxa](https://github.com/Daeraxa)
 
 **Expected size of project**: 175 hours
 
@@ -151,9 +151,9 @@ Implement device-to-device synchronisation (LAN Sync). The application can alrea
 
 **Skills Required**: TypeScript, Networking
 
-**Primary mentor**: [@Daeraxa](https://github.com/@Daeraxa)
+**Primary mentor**: [@Daeraxa](https://github.com/Daeraxa)
 
-**Secondary mentors**: [@CalebJohn](https://github.com/@CalebJohn)
+**Secondary mentors**: [@CalebJohn](https://github.com/CalebJohn)
 
 **Expected size of project**: 175 hours
 
@@ -167,9 +167,9 @@ Implement a mechanism to automatically resolve note conflicts where possible, an
 
 **Skills Required**: TypeScript, Understanding of diff algorithms and version control
 
-**Primary mentor**: [@CalebJohn](https://github.com/@CalebJohn)
+**Primary mentor**: [@CalebJohn](https://github.com/CalebJohn)
 
-**Secondary mentors**: [@mrjo](https://github.com/@mrjo)118, [@Daeraxa](https://github.com/@Daeraxa)
+**Secondary mentors**: [@mrjo](https://github.com/mrjo)118, [@Daeraxa](https://github.com/Daeraxa)
 
 **Expected size of project**: 350 hours
 
