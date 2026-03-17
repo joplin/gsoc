@@ -127,7 +127,7 @@ In general, notes in Joplin are immediately accessible. However the user may wan
 
 **Expected size of project**: 175 hours
 
-### 8. LAN Sync
+### 9. LAN Sync
 
 Implement device-to-device synchronisation (LAN Sync). The application can already sync using various servers, but it would be good to also allow sync fully offline by having the devices connect to each other directly.
 
@@ -141,7 +141,7 @@ Implement device-to-device synchronisation (LAN Sync). The application can alrea
 
 **Expected size of project**: 175 hours
 
-### 9. Automatic conflict resolution
+### 10. Automatic conflict resolution
 
 Implement a mechanism to automatically resolve note conflicts where possible, and provide semi-autonomous or assisted conflict resolution when automatic resolution is not feasible. Note conflicts occur when a note is edited while the local version is not synchronized with the latest version stored on the server. At present, resolving these conflicts requires manual intervention, which can be time-consuming and particularly challenging for longer notes, especially on mobile devices. The project may optionally explore the use of AI to assist with the conflict resolution process, though this is not a required component.
 
