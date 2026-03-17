@@ -135,7 +135,7 @@ In general, notes in Joplin are immediately accessible. However the user may wan
 
 **Skills Required**: TypeScript, Ability to use cryptographic tools and libraries, React for UI
 
-**Primary mentor**: [@mrjo](https://github.com/mrjo)118
+**Primary mentor**: [@mrjo118](https://github.com/mrjo118)
 
 **Secondary mentors**: [@personalizedrefrigerator](https://github.com/personalizedrefrigerator), [@Daeraxa](https://github.com/Daeraxa)
 
@@ -169,7 +169,7 @@ Implement a mechanism to automatically resolve note conflicts where possible, an
 
 **Primary mentor**: [@CalebJohn](https://github.com/CalebJohn)
 
-**Secondary mentors**: [@mrjo](https://github.com/mrjo)118, [@Daeraxa](https://github.com/Daeraxa)
+**Secondary mentors**: [@mrjo118](https://github.com/mrjo)118, [@Daeraxa](https://github.com/Daer118a
 
 **Expected size of project**: 350 hours
 
