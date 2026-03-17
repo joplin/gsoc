@@ -31,7 +31,9 @@ This project is to provide an alternative AI-based search for your notes. Instea
 
 **Skills Required**: TypeScript, ML/AL
 
-**Potential Mentors**: Laurent, Marph
+**Primary mentor**: @malekhavasi
+
+**Secondary mentors**: @HahaBill, @shikuz, @personalizedrefrigerator
 
 **Expected size of project**: 350 hours
 
@@ -51,7 +53,9 @@ With the above example, a note that shows a global overview of the website could
 
 **Skills Required**: TypeScript, ML/AL
 
-**Potential Mentors**: Tessus, Malek
+**Primary mentor**: @HahaBill
+
+**Secondary mentors**: @malekhavasi, @shikuz
 
 **Expected size of project**: 350 hours
 
@@ -65,7 +69,9 @@ The goal of this project would be to automatically categorise the user's notes. 
 
 **Skills Required**: TypeScript, ML/AL, React
 
-**Potential Mentors**: PackElend, Tessus
+**Primary mentor**: @HahaBill
+
+**Secondary mentors**: @shikuz
 
 **Expected size of project**: 350 hours
 
@@ -81,7 +87,9 @@ The user asks a question, the AI answers, and the user can ask more questions to
 
 **Skills Required**: TypeScript, ML/AL, React
 
-**Potential Mentors**: Malek, Tessus
+**Primary mentor**: @shikuz
+
+**Secondary mentors**: @HahaBill, @malekhavasi
 
 **Expected size of project**: 350 hours
 
@@ -95,7 +103,9 @@ Joplin has a strong focus on [accessibility](https://discourse.joplinapp.org/t/p
 
 **Skills Required**: TypeScript, ML/AL, React
 
-**Potential Mentors**: Laurent, Malek
+**Primary mentor**: @personalizedrefrigerator
+
+**Secondary mentors**: @CalebJohn, @shikuz
 
 **Expected size of project**: 175 hours
 
@@ -109,7 +119,9 @@ We would like to improve the security of Joplin's plugin ecosystem by reviewing 
 
 **Skills Required**: TypeScript
 
-**Potential Mentors**: Marph, Malek
+**Primary mentor**: @CalebJohn
+
+**Secondary mentors**: @personalizedrefrigerator
 
 **Expected size of project**: 350 hours
 
@@ -123,7 +135,9 @@ In general, notes in Joplin are immediately accessible. However the user may wan
 
 **Skills Required**: TypeScript, Ability to use cryptographic tools and libraries, React for UI
 
-**Potential Mentors**: Tessus, Laurent
+**Primary mentor**: @mrjo118
+
+**Secondary mentors**: @personalizedrefrigerator, @Daeraxa
 
 **Expected size of project**: 175 hours
 
@@ -137,7 +151,9 @@ Implement device-to-device synchronisation (LAN Sync). The application can alrea
 
 **Skills Required**: TypeScript, Networking
 
-**Potential Mentors**: PackElend, Laurent
+**Primary mentor**: @Daeraxa
+
+**Secondary mentors**: @CalebJohn
 
 **Expected size of project**: 175 hours
 
@@ -151,7 +167,9 @@ Implement a mechanism to automatically resolve note conflicts where possible, an
 
 **Skills Required**: TypeScript, Understanding of diff algorithms and version control
 
-**Potential Mentors**: Laurent, mrjo118
+**Primary mentor**: @CalebJohn
+
+**Secondary mentors**: @mrjo118, @Daeraxa
 
 **Expected size of project**: 350 hours
 
