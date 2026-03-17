@@ -169,7 +169,7 @@ Implement a mechanism to automatically resolve note conflicts where possible, an
 
 **Primary mentor**: [@CalebJohn](https://github.com/CalebJohn)
 
-**Secondary mentors**: [@mrjo118](https://github.com/mrjo)118, [@Daeraxa](https://github.com/Daer118a
+**Secondary mentors**: [@mrjo118](https://github.com/mrjo118), [@Daeraxa](https://github.com/Daeraxa)
 
 **Expected size of project**: 350 hours
 
