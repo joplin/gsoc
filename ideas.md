@@ -29,7 +29,7 @@ This project is to provide an alternative AI-based search for your notes. Instea
 
 **Difficulty Level**: High
 
-**Skills Required**: TypeScript, ML/AL
+**Skills Required**: TypeScript, ML/AI
 
 **Primary mentor**: [@malekhavasi](https://github.com/malekhavasi)
 
@@ -51,7 +51,7 @@ With the above example, a note that shows a global overview of the website could
 
 **Difficulty Level**: High
 
-**Skills Required**: TypeScript, ML/AL
+**Skills Required**: TypeScript, ML/AI
 
 **Primary mentor**: [@HahaBill](https://github.com/HahaBill)
 
@@ -67,7 +67,7 @@ The goal of this project would be to automatically categorise the user's notes. 
 
 **Difficulty Level**: High
 
-**Skills Required**: TypeScript, ML/AL, React
+**Skills Required**: TypeScript, ML/AI, React
 
 **Primary mentor**: [@HahaBill](https://github.com/HahaBill)
 
@@ -85,7 +85,7 @@ The user asks a question, the AI answers, and the user can ask more questions to
 
 **Difficulty Level**: Medium
 
-**Skills Required**: TypeScript, ML/AL, React
+**Skills Required**: TypeScript, ML/AI, React
 
 **Primary mentor**: [@shikuz](https://github.com/shikuz)
 
@@ -101,7 +101,7 @@ Joplin has a strong focus on [accessibility](https://discourse.joplinapp.org/t/p
 
 **Difficulty Level**: Medium
 
-**Skills Required**: TypeScript, ML/AL, React
+**Skills Required**: TypeScript, ML/AI, React
 
 **Primary mentor**: [@personalizedrefrigerator](https://github.com/personalizedrefrigerator)
 
