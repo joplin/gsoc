@@ -28,6 +28,8 @@ Due to our limited resources and in order to give everyone a chance to submit a 
 
 8. **Do not force push**. If you make changes to your pull request, please simply add a new commit as that makes it easy for us to review your new changes. If you force push, we'll have to review everything from the beginning.
 
+9. Due to the volume of pull requests **we no longer allow two pull requests on the same issue**. If one already exists, yours will be closed and will not count towards GSoC evaluation, so please make sure you do not work on the same issue as someone else.
+
 ## PR Description Guidelines
 
 A PR description should explain why the change exists and what it achieves. Its purpose is to reduce the reviewer’s cognitive load, not to narrate the diff. If someone can understand the problem and intent in under a minute, it is doing its job.
