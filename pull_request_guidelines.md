@@ -47,3 +47,7 @@ Call out any behavioural changes, side effects, or areas that may require extra 
 ### Test Plan
 
 Explain how the change was verified. Include manual steps, automated tests, or both. The reviewer should understand how to confirm the fix.
+
+### AI Assistance Disclosure
+
+Disclose AI usage as described in our policy: https://github.com/joplin/gsoc/blob/master/ai_policy.md
